@@ -15,4 +15,5 @@ Read more about this Concept here : https://app.gitbook.com/o/-Mi9QwJlsfb7xuxTBc
 
 ##  The Hypothesis ##
 
-Adopting a dynamic, data-driven approach to Master Plans enhances their adaptability, allowing for real-time urban development insights and decision-making, thereby significantly improving urban planning and management outcomes
+Adopting a dynamic, data-driven and an AI powered approach to Master Plans enhances their adaptability, allowing for real-time urban development insights and decision-making, thereby significantly improving urban planning and management outcomes
+
