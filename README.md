@@ -15,3 +15,6 @@ Read more about this Concept here : https://app.gitbook.com/o/-Mi9QwJlsfb7xuxTBc
 
 Adopting a dynamic, data-driven and an AI powered approach to Master Plans enhances their adaptability, allowing for real-time urban development insights and decision-making, thereby significantly improving urban planning and management outcomes
 
+Urban services can become interoperable once the core data where the interactions primarily happen do have identifiers that can aggreagate multiple datasets. This will not only help to deploy citizen services faster, but can be crucial to aggregate data but to analyse and present it to beaurocrats who can than take informed decision making.
+
+
