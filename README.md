@@ -9,6 +9,10 @@ Currently, neither our cities, nor the institutions and the institutional framew
 
 The key idea of this concept is to intensify the interactions between the departments. It is imperative that data is the most valued commodity of this era. Every department generates multitudes of data through their serice delivery and it is barely digitised. Imagine multiple stream of data coming from various departments synthesising to give you real time data driven insight. If the particulars of your water supply and consumption talk to your electricity consumption to give real time insights on your consumption. Imagine the ticketing information from the busses helps opyimise frequency of the busses according to the day of time
 
-There could be a ton of smart urban solutions that can be tailor made to cities across india, according to their intricasises. but the core to solve this issue is the data and how it flows in the system. If we could strengthen these data pipelines across departments with the help of AI, it would be a gamechanger in data drivern yurban oplanning and desicion making
+There could be a ton of smart urban solutions that can be tailor made to cities across india, according to their intricasises. but the core to solve this issue is the data and how it flows in the system. If we could strengthen these data pipelines across departments with the help of AI, it would be a gamechanger in data drivern urban oplanning and desicion making
 
 Read more about this Concept here : https://app.gitbook.com/o/-Mi9QwJlsfb7xuxTBc0J/s/EEwfWYFeSmSxwn4xkj9g/vishnu-egov
+
+##  The Hypothesis ##
+
+Adopting a dynamic, data-driven approach to Master Plans enhances their adaptability, allowing for real-time urban development insights and decision-making, thereby significantly improving urban planning and management outcomes
