@@ -20,4 +20,7 @@ Urban services can become interoperable once the core data where the interaction
 ## Core Principle ##
 This Hightened Reality digital master plan should be built with a key feature of decentralised nature in mind. This should be an environment and a platform for seamless data exchange but it should also not hold monopoly over any data. All the data would be aggregated and managed by concerned departments only 
 
+## What we intend to build? ##
+Functionally breaking down, Every Infrastructure component in a city is broken down to either an asset or a service, usually an asset that will further spinoff into delivering a service - for example the Water Supply Service you avail from your ULB is a result of the assets developed - which are your Water treatment plans, Pipelines, Taps etc. Depending on the state, there are anywhere close to 30-55 departments that can technically take a desicion to impact a piece of land. And currrently no system exists so that these departments do potentially talk to each other , which currently leads to all sorts of chaos. So the key is to build a ata exchange system traversing across departments that can seamlessly communicate relevant attributes. 
+
 
