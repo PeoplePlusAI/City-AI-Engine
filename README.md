@@ -30,5 +30,4 @@ The issue however as discussed earlier in the hypothesis, lies in the sheer fact
 
 A classic example of this is how we approach "GIS based Master Plans" in our country. Each city that undergoes this assignment undergoes collection of gigabytes of data from 50 odd departments that attribute to either constructing, operating, maintaining assets and services across the city. All this data is manually collected, condensed into GIS , and an elaborate "landuse plan" is prepared.  This plan is then condensed and and analysed into a bunch of PDF files and Maps, which are often printed , signed, scanned using mobile phones, and then uploaded into websites.  
 
-## Smart cities or "Smart" cities?
-When we fundamentally try ro answer the 
+
