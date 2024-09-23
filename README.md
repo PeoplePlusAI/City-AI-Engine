@@ -10,7 +10,7 @@ The key idea of this concept is to intensify the interactions between the depart
 
 There could be a ton of smart urban solutions that can be tailor made to cities across india, according to their intricasises. but the core to solve this issue is the data and how it flows in the system. If we could strengthen these data pipelines across departments with the help of AI, it would be a gamechanger in data drivern urban oplanning and desicion making
 
-Read more about this Concept here : https://app.gitbook.com/o/-Mi9QwJlsfb7xuxTBc0J/s/EEwfWYFeSmSxwn4xkj9g/vishnu-egov
+Read more about this Concept here : https://docs.google.com/document/d/1bCwj7xjZbc8hPDIJC73ddn19fQTPiMlw21UEHACz5zs/edit
 
 ##  The Hypothesis ##
 
