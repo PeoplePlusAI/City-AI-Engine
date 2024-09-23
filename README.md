@@ -1,4 +1,5 @@
-# Reimagining Cities with AI
+# City AI Engine - ReImagine Cities with AI
+
 India is a Rapidly urbanising country with over 377 Million people living in urban areas in 2011. For a country that is so heavily and rapidly urbanised, there is little to no "Urban Planning" that is being done, resulting in Haphazard growth of cities and a dysfunction web of departments offering service delivery
 
 This phenomena of rapid urbanisation can be attributed to a multitude of parameters ranging from Changing demographic, social factors, employment oppurtunities etc.. But whats alarming is the aftermath of unmanaged and unplanned urbanisation, leading to various chanllenged that both contrubute and get a/ffected by climate change. For this to happen, Cities need to grow more resilient. Resilient to climate chage and its effects, resilient to economic fluctuations, resilient to infrastructure failures
